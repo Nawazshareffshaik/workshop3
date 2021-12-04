@@ -1,6 +1,4 @@
 Created file
 Using Terminal 
 Commands touch
-file Initialised
-Hello Sir
-Created Repository
+
